@@ -1,0 +1,38 @@
+Presentation Notes:
+(Slide1)
+
+Before I start the presentation I would like to show a quick video clip as to where we came up with the idea.
+
+(Slide2)
+Start vide
+(video ends)
+
+(Slide3)
+As you can tell, after a number of occurances, this can become a bit of a problem. Sometimes these situations can end up in assult
+hurt feelings, or even gym closures.
+
+(Slide4)
+Court Master is a revolutionary basketball pick up game organizer. This application is specifically for basketball games but can be applied to 
+other types of sports. Our market resides in athletic clubs, student recreational centers, and gyms.
+
+(Slide5)
+Team indroductions:
+	Steve Neet: Was our main GUI developer. He went through the trouble of learning hainus QT and connecting all the dots with the backend.
+	Grant Harris: Worked on back end development including multiple data structures and version control.
+	David Palmiter: 
+	Anders Stadum: Product visionary, project organizer, UX designer, GUI/QT implementation research.
+
+(Slide6)
+Problems that occured during development: 
+	Steve Speaks about issues with QT and make files
+	Grant Speaks about version control and problems with the back end.
+
+(Slide7)
+How it works
+	-Show Diagram with arrows, give brief explaination on how it works.
+
+(Slide8-??)
+Give actually demonstration.
+
+(Slide??)
+Conclusion

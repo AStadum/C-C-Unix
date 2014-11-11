@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1586</width>
+    <height>1179</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QLCDNumber" name="lcd_Minutes">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>80</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLCDNumber" name="lcd_MiliSeconds">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>80</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLCDNumber" name="lcd_Seconds">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>80</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Start">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>190</y>
+      <width>164</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Start</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Stop">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>190</y>
+      <width>164</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Stop</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Reset">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>190</y>
+      <width>164</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Reset</string>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="HomeBrowser">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>290</y>
+      <width>381</width>
+      <height>351</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="AwayBrowser">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>290</y>
+      <width>381</width>
+      <height>351</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Name_Label">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>20</y>
+      <width>181</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:36pt;&quot;&gt;Name:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Join_Queue">
+    <property name="geometry">
+     <rect>
+      <x>890</x>
+      <y>100</y>
+      <width>201</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Join Wait List</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_PlayerName">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>20</y>
+      <width>471</width>
+      <height>71</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="WaitList_Browser">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>290</y>
+      <width>381</width>
+      <height>351</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Library_Browser">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>290</y>
+      <width>381</width>
+      <height>881</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>230</y>
+      <width>158</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Library</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>230</y>
+      <width>158</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Home</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>230</y>
+      <width>158</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Away</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="winnerDropDown">
+    <property name="geometry">
+     <rect>
+      <x>171</x>
+      <y>700</y>
+      <width>221</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Select Winner</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Home</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Away</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="Declare_Winner">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>700</y>
+      <width>221</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Declare Winner</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>870</x>
+      <y>230</y>
+      <width>158</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Wait List</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1586</width>
+     <height>48</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

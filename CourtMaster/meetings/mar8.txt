@@ -1,0 +1,21 @@
+Mar 8, 2014
+
+Attended:
+Steve Neet
+Grant Harris 
+
+Times: 4:30pm until 9pm
+
+*	Steve: continued to work with QT in order to make scrollbar windows object-accessible.
+		Worked on debugging the game clock.
+		Worked online to solve local debugging issues.
+
+* 	Grant: added multiple functions to the PlayerQueue class implementing priority queue functionality.
+		Worked to solve all memory leaks problems caused by deletion of nodes.
+		Presented object-communication problems, (like returning null objects)
+
+
+	As a group:
+		Discussed upcoming objectives and time management. Assigned 
+		each present member future work for alone time programming. 
+		Plans to meet the following afternoon were made. 

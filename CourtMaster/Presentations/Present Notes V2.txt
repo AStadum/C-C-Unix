@@ -1,0 +1,10 @@
+Default / First Player Input
+First Player Added
+Player Queue Full, ready to link to visitor 
+Next player added links player queue to our second queue column “visitor”
+On join queue click, players are dumped into visitor queue and sixth man is added into the waiting queue.
+Second team added on Join Queue click. Visitor Team is sent to “Home”
+Both queues are loaded. Eleventh player sent to player queue to wait for next game.
+Home Wins. Visitor is Dropped from that queue and sent back to player library for permanent IO storage
+Visitor Wins. Home is dropped and sent back to Player Library and Visitor is sent to Home.
+Next five players are added on sixth man Join Queue click. Since home won they receive a win increment and the loser gets a lose increment. Given that we are adding new players, the home team has more wins so they will have the advantage.

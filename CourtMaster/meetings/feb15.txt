@@ -1,0 +1,13 @@
+Feb 15, 2014
+
+Attended:
+Steve Neet
+Grant Harris
+
+
+* Expanded knowledge of GIT
+* Attempted to get GTK libraries to build
+* Created Player class
+* Began working on priority player queue
+* Began conceptualizing other usable data structures
+ 

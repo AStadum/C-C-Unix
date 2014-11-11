@@ -1,0 +1,16 @@
+March 13, 2014
+
+Attended: Grant Harris
+		  David Palmiter
+		  Anders Stadum
+		  Steve Neet
+
+		  Hours: 4pm - 12am
+
+		  * Did a practice presentation
+		  * Added pictures to presentation slides
+		  * Continued to connect GUI and back end
+		  * Assured application compilation in ix-saucy
+		  * Finished Player object persistance
+		  * Finalized project
+		  * Drank lots of coffee

@@ -1,0 +1,34 @@
+Saturday February 22nd, 2014 
+
+CIS 330 Jocknerds Project Report:
+
+Deschutes 100 Arrival times:
+Anders: 2:00 pm
+Steve:  2:30 pm
+Grant:  4:00 pm
+David:  5:30 pm
+
+Objectives:
+
+Anders: 	Project report/implementation details.
+Steve:  	Creation of slider box that accepts player objects into the priority que.
+Grant:  	Implementation of a linked list which sends objects from sign up que to playing que.
+David:  	File IO implementation classes.
+As a group: Discus project organization and meeting times.
+
+Current Progess:
+
+As of right now, we're currently behind on our schedule that we submitted in our project proposal.
+We are trying to accomplish a small percentage of the project today since completing Assignment 6 is of higher importance.
+We have met as a group 4 times thus far to discus implementation details and to work with QT design. It has proved to be a process thus far as none of us are very familiar with the QT libraries. 
+
+Progress Achived Today:
+
+Discussed data structure implementation. David should be uploading the notes onto bit bucket. Grant has almost finished the priority queue. He has enabled it such that it takes in player objects. Steve began working on the player queue gui slider and touched up some mistakes he had made on the last push. Anders helped David with theorizing the data structure implementation, organized the meeting, and kept people on track.
+
+
+Deschutes 100 Departure times:
+Anders: 7
+Steve:  6pm
+Grant:  7
+David:  7

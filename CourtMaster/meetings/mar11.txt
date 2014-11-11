@@ -1,0 +1,17 @@
+Tuesday March 11 Week Update:
+
+Attendance: Grant Harris
+			Steve Neet
+			Anders Stadum
+			David Palmiter
+
+			2pm - 6:30pm
+
+Presentation pretty much finalized. Working on video reconnaissance.
+
+Linked Player Queue and QT GUI.
+
+Front and Back end collaboration.
+
+Finished documentation
+

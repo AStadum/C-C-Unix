@@ -1,0 +1,16 @@
+Sunday March 9th, 2014 Weekly update status!
+
+Attended: David Palmiter 
+		  Grant Harris
+		  Steve Neet
+		  Anders Stadum
+
+		  Time: 4pm-9pm
+
+Diagnosed a few critical issues in regards to passing player object references.
+
+Fixed memory leaks in the player queue.
+
+Discussed scheduling for prepresentation.
+
+Discussed file IO linking (front end <-> back end linking)

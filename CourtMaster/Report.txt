@@ -1,0 +1,9 @@
+Steve Neet: Steve was definitely the backbone developer on this project. He dedicated a huge chunk of time to getting started with QT. We all started out independently with QT and decided to go with Steve's working version. Steve worked with backend development to connect the QT GUI with Grant's home made data structure.
+
+Grant Harris: Grant wrote the entire player queue/priority queue from scratch. From the very start Grant spent a ton of time learning GIT version control. He walked all of us through the tricks of branching and other useful utilities. Grant also did the majority of the debugging for Court Master.
+
+Anders Stadum: Anders was our UX designer, project leader, and presentation creator. He delegated programming tasks, designed the flow of control, and managed documentation. 
+
+David Palmiter: David was our chief architect. Whenever Steve and Grant hit a wall David was there to walk them through it. David was a valuable resource for programming and software development techniques. 
+
+This version of court master is exactly how we outlined it to be in the project proposal. We decided to leave other complexities for later.

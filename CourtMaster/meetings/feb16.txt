@@ -1,0 +1,15 @@
+Feb 16, 2014
+
+Attended:
+Anders Stadum
+Steve Neet
+David Palmiter
+Grant Harris
+
+* Aborted GTK attempts, switched instead to Qt GUI ide
+* Created stopclock
+* Delegated tasks among group members
+* Began Game class
+* Researched Qt IDE further
+* Researched GIT commands in depth (branching, merging)
+* 
