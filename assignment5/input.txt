@@ -1,0 +1,6 @@
+A programmer started to cuss,
+Because getting to sleep was a fuss.
+As she lay there in bed,
+Looping 'round in her head,
+Was: while(!asleep()) sheep++;
+
